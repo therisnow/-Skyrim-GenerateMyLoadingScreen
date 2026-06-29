@@ -17,5 +17,7 @@ Please download the latest packaged version from the **Releases** page.
 
 ## Important
 
-This is a generator tool, not the final in-game mod.  
-Run the script first, then install the generated ZIP from the `output` folder with MO2 or Vortex.
+The code of this tool was mainly generated with AI assistance and has been basically tested to work.
+However, it is not formally verified or professionally audited software, so strict correctness is not guaranteed for every environment, every NIF template, every image format, or every Skyrim setup.
+
+It just works.
