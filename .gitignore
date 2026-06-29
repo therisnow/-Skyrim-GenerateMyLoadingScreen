@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated output
+output/
+descriptions.csv
+project_config.json
+
+# User input images
+input_16x9/*
+!input_16x9/_put_16x9_images_here.txt
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Logs
+*.log
