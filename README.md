@@ -2,6 +2,10 @@
 
 A Skyrim SE/AE custom loading screen generator.
 
+The loading screen output is: 2K 16:9 widescreen loading screen.
+Please prepare 16:9 images. 2K or higher resolution is recommended, but not required.
+The script will convert the images to the 2048×2048 DDS format required by the template, and the template will display them in-game as 16:9 widescreen loading screens.
+
 ## Downloads
 
 Please download the latest packaged version from the **Releases** page.
